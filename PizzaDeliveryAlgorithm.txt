@@ -1,4 +1,4 @@
-1. Call Domino's
+1. Call ___________ (pizza place) 
     a.If they don't answer, go back to 1. Otherwise, continue.
 2. Order a __________ (pizza type) pizza
 3. Give Credit Card Info
