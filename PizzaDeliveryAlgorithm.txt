@@ -3,5 +3,6 @@
 2. Order a __________ (pizza type) pizza
 3. Give Credit Card Info
 4. Wait
-5. Recieve Pizza
+5. Recieve Pizza.
+    a. If Pizza is not __________ (pizza type), then send back. 
 6. If we did not tip on phone, then tip the driver. 
